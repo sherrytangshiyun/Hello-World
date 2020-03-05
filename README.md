@@ -1,2 +1,2 @@
 # Hello-World
-Just say hello to you everyone
+Just say hello to you all
